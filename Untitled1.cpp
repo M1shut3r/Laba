@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
 main(){
-	cout<<"Hljjbjgvhfcfgxfxgfchgi";
+	cout<<"ABASD";
 	return 0;
 }
